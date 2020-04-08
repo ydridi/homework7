@@ -1,6 +1,7 @@
 html,
 body,
-.wrapper {
+.col {
+  background-color: aqua;
   height: 100%;
   margin: 0;
   padding: 0;
@@ -11,6 +12,7 @@ body {
   background-color: #f9fbfd;
 }
 .container {
+  background-color: aqua;
     padding-top: 30px;
     padding-left: 20px;
     padding-right: 20px;
@@ -27,12 +29,14 @@ body {
     padding: 30px 40px;
 }
 .row {
+  background-color: aquamarine;
     padding-top: 30px;
     padding-left: 20px;
     padding-right: 20px;
 
 }
 .col {
+  background-color: aqua;
     padding-top: 30px;
     padding-left: 20px;
     padding-right: 20px;
